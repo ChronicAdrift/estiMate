@@ -1,0 +1,3 @@
+[submodule "pyui"]
+	path = pyui
+	url = git@github.com:dcwatson/pyui.git
